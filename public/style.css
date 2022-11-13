@@ -1,0 +1,23 @@
+i {
+    cursor: pointer;
+}
+
+.fond {
+    background-color: rgb(84, 231, 162);
+    color: white;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background-color: rgb(26, 188, 39);
+    color: #b3bfbf !important;
+}
+
+.dropdown-item {
+    color: #808080 !important;
+}
+
+.dropdown-menu {
+    background-color: #0c0d0d;
+    border: 1px solid #808080;
+}

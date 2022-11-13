@@ -1,0 +1,1336 @@
+[
+    {
+        "id": "2",
+        "nom": "Abraracourcix",
+        "adresse": "Centre Village",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Abraracourcix.png",
+        "latitude": "48.644522",
+        "longitude": "-2.482608",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "8",
+            "nom": "Chef de village",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "3",
+        "nom": "Acidenitrix",
+        "adresse": "Centre Village",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Acidenitrix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "2",
+            "nom": "Laudanum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "4",
+            "nom": "Espion",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "4",
+        "nom": "Agecanonix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Agecanonix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "5",
+        "nom": "Alambix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Alambix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "7",
+        "nom": "Amerix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Amerix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "8",
+        "nom": "Amnesix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Amnesix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "3",
+            "nom": "Druide",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "10",
+        "nom": "Analgesix",
+        "adresse": "bateau",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Analgesix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "11",
+        "nom": "Antibiotix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Antibiotix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "5",
+            "nom": "3e chene à droite de la carriere",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "13",
+        "nom": "Aplusbegalix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Aplusbegalix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "15",
+        "nom": "Arrierboutix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Arrierboutix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "5",
+            "nom": "3e chene à droite de la carriere",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "12",
+        "nom": "Assurancetourix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Assurancetourix.png",
+        "latitude": "48.644903",
+        "longitude": "-2.485298",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "2",
+            "nom": "Barde",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "40",
+        "nom": "Asterix",
+        "adresse": "coté carrières",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Asterix.png",
+        "latitude": "48.642165",
+        "longitude": "-2.483616",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "16",
+        "nom": "Asthmatix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Asthmatix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "17",
+        "nom": "Astronomix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Astronomix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "2",
+            "nom": "Laudanum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "18",
+        "nom": "Avoranfix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Avoranfix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "2",
+            "nom": "Laudanum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "51",
+        "nom": "Barometrix",
+        "adresse": "Foret",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Barometrix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "3",
+            "nom": "Druide",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "148",
+        "nom": "Bolderix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "5",
+            "nom": "3e chene à droite de la carriere",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "152",
+        "nom": "Bombatomix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "159",
+        "nom": "Bonemine",
+        "adresse": "Centre village",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/bonemine.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "14",
+        "nom": "Boufiltre",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Boufiltre.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "5",
+            "nom": "3e chene à droite de la carriere",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "19",
+        "nom": "Carferrix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Carferrix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "20",
+        "nom": "Catedralgotix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Catedralgotix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "21",
+        "nom": "Cetautomatix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Cetautomatix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "22",
+        "nom": "Choucroutgarnix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Choucroutgarnix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "24",
+        "nom": "Diagnostix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Diagnostix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "2",
+            "nom": "Laudanum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "3",
+            "nom": "Druide",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "25",
+        "nom": "Dithyrambix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Dithyrambix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "64",
+        "nom": "Economix",
+        "adresse": "hutte",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Economix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "5",
+            "nom": "3e chene à droite de la carriere",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "149",
+        "nom": "Gépacomprix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "50",
+        "nom": "Goudurix",
+        "adresse": "Bord de la plage",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Goudurix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "26",
+        "nom": "Herettix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Heretix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "27",
+        "nom": "Industrichimix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/industrichimix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "53",
+        "nom": "Lentix",
+        "adresse": "Lutece",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Lentix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "155",
+        "nom": "lettehitbix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "4",
+            "nom": "Espion",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "28",
+        "nom": "Mineralogix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Mineralogix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "7",
+            "nom": "Grottes",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "6",
+        "nom": "Monosyllabix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/monosyllabix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "1",
+        "nom": "Obelix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Obelix.png",
+        "latitude": "48.642466",
+        "longitude": "-2.486433",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "1",
+            "nom": "Porteur de Mehnir",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "30",
+        "nom": "Ordralfabetix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Ordralfabetix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "2",
+            "nom": "Laudanum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "31",
+        "nom": "Orthopedix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Orthopedix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "150",
+        "nom": "Pakdesix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "9",
+        "nom": "Panoramix",
+        "adresse": "Grottes Nord",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Panoramix.png",
+        "latitude": "48.644878",
+        "longitude": "-2.487809",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "3",
+            "nom": "Druide",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "154",
+        "nom": "Patafix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "32",
+        "nom": "Petisuix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Petisuix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "52",
+        "nom": "Plaintcontrix",
+        "adresse": "Lutece",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Plaintcontrix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "33",
+        "nom": "Plantaquatix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Plantaquatix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "5",
+            "nom": "3e chene à droite de la carriere",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "34",
+        "nom": "Pneumatix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Pneumatix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "1",
+            "nom": "Babaorum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "35",
+        "nom": "Porquepix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Porquepix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "7",
+            "nom": "Grottes",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "156",
+        "nom": "Postinformatix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "36",
+        "nom": "Pronostix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Pronostix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "37",
+        "nom": "Quatredeuxsix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Quatredeuxsix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "3",
+            "nom": "Oposum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "38",
+        "nom": "Salamix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Salamix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "5",
+            "nom": "Villageois",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "39",
+        "nom": "Selfservix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Selfservix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "147",
+        "nom": "Sincityx",
+        "adresse": "centre du village",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Sincityx.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "54",
+        "nom": "Taxesurleprix",
+        "adresse": "Lutece",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Taxesurleprix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "7",
+            "nom": "Marchand",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "153",
+        "nom": "Téléfonefix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "2",
+            "nom": "Laudanum",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "6",
+            "nom": "Artisan",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "23",
+        "nom": "Tournedix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Tournedix.jpg",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "55",
+        "nom": "Tragicomix",
+        "adresse": "Lutece",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Tragicomix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "10",
+            "nom": "Village Gaulois",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "9",
+            "nom": "Guerrier",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "151",
+        "nom": "Vinedozedix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/inconnu.png",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "4",
+            "nom": "Champs de Nioutechnologix",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "4",
+            "nom": "Espion",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    },
+    {
+        "id": "29",
+        "nom": "Zerozerosix",
+        "adresse": "",
+        "image": "http://localhost//jsonGaulois//imagesGaulois/Zerozerosix.gif",
+        "latitude": "0",
+        "longitude": "0",
+        "leLieuHabitat": {
+            "id": "6",
+            "nom": "En mer",
+            "lesBatailles": [],
+            "lesHabitants": []
+        },
+        "laSpecialite": {
+            "id": "4",
+            "nom": "Espion",
+            "LesVillageois": []
+        },
+        "lesPotionsBues": [],
+        "lesBatailles": [],
+        "lesPotionsDroit": [],
+        "lesCasquesPris": []
+    }
+]
